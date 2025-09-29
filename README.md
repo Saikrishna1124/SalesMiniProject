@@ -1,5 +1,5 @@
 # SalesMiniProject
-Project Description
+📊Project Description
 
 This is a small Python web application that analyzes sales data using Pandas and displays results in a simple web interface.
 It’s designed as a beginner-friendly project for Python Developer Internships.
