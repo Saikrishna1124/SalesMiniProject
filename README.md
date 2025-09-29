@@ -1,4 +1,5 @@
 # SalesMiniProject
+
 📊Project Description
 
 This is a small Python web application that analyzes sales data using Pandas and displays results in a simple web interface.
@@ -22,6 +23,8 @@ Flask
 
 HTML / CSS
 
+
+
 🖼 Features
 
 Display total sales
@@ -32,13 +35,7 @@ Simple and clean HTML + CSS interface
 
 Beginner-friendly, ideal for internship demo
 
-⚡ Future Enhancements
 
-Add charts for visual representation
-
-Filter sales by region or date
-
-Downloadable PDF report of sales data
 
 🔹 Conclusion
 
@@ -54,7 +51,7 @@ Displayed results in a clean and simple web page using HTML and CSS
 
 Perfect for beginner-level Python internship projects
 
-This project can be extended further by adding charts, filtering by regions/dates, or generating reports for more interactive insights.
 
 ✅ Output
+
 <img width="778" height="310" alt="image" src="https://github.com/user-attachments/assets/9299302d-81fc-43b5-bcf2-ad864fa78075" />
