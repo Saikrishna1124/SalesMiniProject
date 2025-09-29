@@ -22,16 +22,6 @@ Flask
 
 HTML / CSS
 
-📂 Project Structure
-SalesMiniProject/
-│── sales.csv
-│── app.py
-│── templates/
-│   └── index.html
-│── static/
-│   └── style.css
-
-
 🖼 Features
 
 Display total sales
@@ -49,3 +39,22 @@ Add charts for visual representation
 Filter sales by region or date
 
 Downloadable PDF report of sales data
+
+🔹 Conclusion
+
+This mini project demonstrates how to use Python and Pandas to analyze sales data and present it via a web interface using Flask.
+
+Key Takeaways:
+
+Loaded CSV data using Pandas
+
+Calculated total sales and sales per product
+
+Displayed results in a clean and simple web page using HTML and CSS
+
+Perfect for beginner-level Python internship projects
+
+This project can be extended further by adding charts, filtering by regions/dates, or generating reports for more interactive insights.
+
+✅ Output
+<img width="778" height="310" alt="image" src="https://github.com/user-attachments/assets/9299302d-81fc-43b5-bcf2-ad864fa78075" />
